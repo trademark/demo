@@ -1,5 +1,4 @@
-test
-<br />
+
 <?php
 	$test = 1;
 	if($test==1){
@@ -8,4 +7,7 @@ test
 	else {
 		echo 'how did this show up?';
 	}
+	
 ?>
+
+HI THIS IS NOW!
